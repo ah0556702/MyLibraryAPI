@@ -1,0 +1,56 @@
+
+/* Audrey Harmon
+MyAPI - Final 
+BackEnd WebDev 
+12/13/2023 */
+
+HTML{
+    background-color: black;
+}
+
+h1{
+    color: red;
+}
+
+body{
+    margin: auto;
+    text-align: center;
+    background-color: black;
+}
+
+.logo {
+    width: 350px;
+}
+
+.a{
+    margin: auto;
+    text-align: center;
+    font-size: 1.2em;
+    border: 1px solid #59003D;
+    border-radius: 10%;
+    padding: 10px 10px 10px 10px;
+    display: inline;
+    max-width: 65px;
+}
+
+.a:link {
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+    color: #B4A294;
+}
+
+.a:visited {
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+    color: #B4A294;
+}
+
+.a:hover {
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
